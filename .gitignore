@@ -31,7 +31,7 @@ yarn-error.*
 
 # local env files
 .env*.local
-expo-env.d.ts
+nativeWindEnv.d.ts
 
 # typescript
 *.tsbuildinfo
